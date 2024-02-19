@@ -1,5 +1,5 @@
 ## Portfolio-Website
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+Portfolio website build using HTML5, CSS3, JavaScript and jQuery. Edited from [this](https://github.com/jigar-sable/Portfolio-Website)
 
 <a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
@@ -14,8 +14,9 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+![image](https://github.com/tiaradwim1306/portofolio/assets/120786669/b1aa48c2-86ae-4183-9303-c0358e9f7604)
+![image](https://github.com/tiaradwim1306/portofolio/assets/120786669/f182e022-b9aa-444d-80b4-9c93cafcaaad)
+![image](https://github.com/tiaradwim1306/portofolio/assets/120786669/b1b3b522-0084-4838-af61-adfe4b2b98b7)
 
 
 <h2>📬 Contact</h2>
