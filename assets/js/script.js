@@ -59,8 +59,8 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            document.title = "Portfolio | Tiara Dwi M";
+            $("#favicon").attr("href", "assets/images/penguin.png");
         }
         else {
             document.title = "Come Back To Portfolio";
